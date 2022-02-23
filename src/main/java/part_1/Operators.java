@@ -7,7 +7,13 @@ public class Operators {
 		int a = 10;
 		int b = 20;
 
-		// Arithmetic operators --> + - * / %
+		// Arithmetic operators --> 
+			//  +  --> Additive operator (also used for String concatenation)
+			//  -  --> Subtraction operator
+			//  *  --> Multiplication operator
+			//  /  --> Division operator
+			//  %  --> Reminder operator
+		
 		System.out.println("-------Arithmetic Operators");
 		System.out.println("Sum of a and b is: " + (a + b));
 		System.out.println("Diff of a and b is: " + (b - a));
